@@ -1,1 +1,1 @@
-# python
+# course https://pythoncharmers.com/
